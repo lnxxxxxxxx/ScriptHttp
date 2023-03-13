@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "nombre": "Bolbazor",
   "email": "bolbazor1000@pokemon.bot",
   "password": ""
 }
+=======
+    "nombre": "Bolbazor",
+    "email": "Bolbazor@Pokemon.bot",
+    "password": ""
+  }
+  
+>>>>>>> 962e84604c1d995ccaa1dfff690c7c579bcbc4f8
